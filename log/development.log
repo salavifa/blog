@@ -1476,3 +1476,260 @@ Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for
 
 
 Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:31:51 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.4ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 106ms (Views: 104.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:55 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 83ms (Views: 81.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 70ms (Views: 68.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 79ms (Views: 77.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:56 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 82ms (Views: 80.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/comments/" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 77ms (Views: 76.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 10:34:57 +0000
