@@ -1,0 +1,1068 @@
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 09:26:33 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 28ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:34:52 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:34:57 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:34:58 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:00 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:01 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:04 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:05 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:06 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2015-02-01 10:35:34 +0000
+Processing by Rails::InfoController#properties as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/info/properties.html.erb (0.5ms)
+Completed 200 OK in 33ms (Views: 9.7ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:38 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:35:39 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2015-02-01 10:35:41 +0000
+Processing by Rails::InfoController#properties as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/info/properties.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 10:39:27 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (12.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (3.5ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreatePosts (20150201113231)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  CREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20150201113231"]]
+  [1m[35m (14.5ms)[0m  commit transaction
+Migrating to CreateComments (20150201113354)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  CREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "post_id" integer, "body" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20150201113354"]]
+  [1m[35m (3.1ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-01 11:38:34 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 29ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts.index" for 192.168.1.2 at 2015-02-01 11:39:01 +0000
+Processing by PostsController#index as 
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 888ms (Views: 884.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 11:39:02 +0000
+
+
+Started GET "/posts/new" for 192.168.1.2 at 2015-02-01 11:39:10 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (15.9ms)
+  Rendered posts/new.html.erb within layouts/application (19.9ms)
+Completed 200 OK in 93ms (Views: 86.6ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/posts" for 192.168.1.2 at 2015-02-01 11:39:21 +0000
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EIv19onaUuh4CjEPpHfjENkYwJqLglulX0XygEBcf70OHPPzwl6vnBvyfWLR5cMnSdqLDQpU1P3m81N/r/QUTQ==", "post"=>{"title"=>"My First port", "body"=>"Life is greate"}, "commit"=>"Create Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "posts" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "My First port"], ["body", "Life is greate"], ["created_at", "2015-02-01 11:39:21.622243"], ["updated_at", "2015-02-01 11:39:21.622243"]]
+  [1m[36m (15.7ms)[0m  [1mcommit transaction[0m
+Redirected to http://192.168.1.222:3000/posts/1
+Completed 302 Found in 67ms (ActiveRecord: 16.3ms)
+
+
+Started GET "/posts/1" for 192.168.1.2 at 2015-02-01 11:39:21 +0000
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 83ms (Views: 75.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:39:31 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 73ms (Views: 69.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/comments/new" for 192.168.1.2 at 2015-02-01 11:39:33 +0000
+Processing by CommentsController#new as HTML
+  Rendered comments/_form.html.erb (3.9ms)
+  Rendered comments/new.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 77ms (Views: 71.9ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/comments" for 192.168.1.2 at 2015-02-01 11:39:46 +0000
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iFm3ELvb/5fEJ9WujnlyauvxYdTxt6yug/0quXQTDJyWzrEV8F8C46ffmcP761JdezMqQ3BhI/Y6S4tGm7tnbA==", "comment"=>{"post_id"=>"1", "body"=>"Great Post"}, "commit"=>"Create Comment"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "comments" ("post_id", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["post_id", 1], ["body", "Great Post"], ["created_at", "2015-02-01 11:39:46.198624"], ["updated_at", "2015-02-01 11:39:46.198624"]]
+  [1m[35m (3.8ms)[0m  commit transaction
+Redirected to http://192.168.1.222:3000/comments/1
+Completed 302 Found in 8ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/comments/1" for 192.168.1.2 at 2015-02-01 11:39:46 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered comments/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 94ms (Views: 91.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:43:52 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 84ms (Views: 82.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments/1" for 192.168.1.2 at 2015-02-01 11:43:54 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered comments/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 71ms (Views: 69.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:43:57 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 90ms (Views: 89.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:44:04 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 75ms (Views: 74.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:05 +0000
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 77ms (Views: 76.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 11:44:08 +0000
+
+
+Started GET "/comments/new" for 192.168.1.2 at 2015-02-01 11:45:58 +0000
+Processing by CommentsController#new as HTML
+  Rendered comments/_form.html.erb (2.0ms)
+  Rendered comments/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/comments" for 192.168.1.2 at 2015-02-01 11:46:13 +0000
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jCkPAvzftkfuuf1gZsz8i0H/TaKYLfvexIkJnqQoE6mSvgkHt1tLM41BsQ0TXty80T0GNRn7dIZ9P6hhS4B4WQ==", "comment"=>{"post_id"=>"1", "body"=>"Ok, now getting there."}, "commit"=>"Create Comment"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("post_id", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["post_id", 1], ["body", "Ok, now getting there."], ["created_at", "2015-02-01 11:46:13.944308"], ["updated_at", "2015-02-01 11:46:13.944308"]]
+  [1m[36m (3.7ms)[0m  [1mcommit transaction[0m
+Redirected to http://192.168.1.222:3000/comments/2
+Completed 302 Found in 8ms (ActiveRecord: 4.1ms)
+
+
+Started GET "/comments/2" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mComment Load (0.1ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered comments/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 74ms (Views: 72.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 11:46:14 +0000
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:46:20 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments/1/edit" for 192.168.1.2 at 2015-02-01 11:47:09 +0000
+Processing by CommentsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mComment Load (0.1ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered comments/_form.html.erb (2.0ms)
+  Rendered comments/edit.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 81ms (Views: 79.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:47:11 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 83ms (Views: 81.5ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/comments/1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"AL75mbJ3XbyeFtG29f+8q4xp6mF3cmL0QgP8wrViT5UeKf+c+fOgyP3unduAbZycHKuh9vak7az7tV09WsokZQ==", "id"=>"1"}
+  [1m[35mComment Load (0.1ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 1]]
+  [1m[36m (4.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://192.168.1.222:3000/comments
+Completed 302 Found in 8ms (ActiveRecord: 5.1ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 78ms (Views: 76.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 11:47:15 +0000
+
+
+Started GET "/comments/2" for 192.168.1.2 at 2015-02-01 11:47:20 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered comments/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 69ms (Views: 67.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 12:33:28 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.4ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 100ms (Views: 89.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 12:33:28 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 12:33:28 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 12:33:29 +0000
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.7ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 89ms (Views: 84.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-01 16:00:06 +0000
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-06 22:39:45 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 29ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 179ms (Views: 175.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-06 22:39:53 +0000
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-06 22:39:59 +0000
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 83ms (Views: 80.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts/new" for 192.168.1.2 at 2015-02-06 22:40:02 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/_form.html.erb (14.9ms)
+  Rendered posts/new.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 88ms (Views: 87.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 192.168.1.2 at 2015-02-06 22:40:07 +0000
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CexFix/5l52xFXFrMl/N6e0Oor4VGcC7F69w5RwXvMakUa69fyqSYCFFGf7rKV0AXvnqJE51EcBmtlAf5jn4aw==", "post"=>{"title"=>"asdfsadf", "body"=>"asdfasdf"}, "commit"=>"Create Post"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "posts" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "asdfsadf"], ["body", "asdfasdf"], ["created_at", "2015-02-06 22:40:07.190494"], ["updated_at", "2015-02-06 22:40:07.190494"]]
+  [1m[35m (3.7ms)[0m  commit transaction
+Redirected to http://192.168.1.222:3000/posts/2
+Completed 302 Found in 10ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/posts/2" for 192.168.1.2 at 2015-02-06 22:40:07 +0000
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered posts/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 77ms (Views: 70.5ms | ActiveRecord: 0.2ms)
+  [1m[36mPost Load (1.8ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-10 07:48:50 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (1.8ms)
+Completed 200 OK in 32ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (25.8ms)
+Completed 200 OK in 217ms (Views: 210.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 07:48:56 +0000
+
+
+Started GET "/posts/2/edit" for 192.168.1.2 at 2015-02-10 07:49:00 +0000
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered posts/_form.html.erb (18.3ms)
+  Rendered posts/edit.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 104ms (Views: 94.8ms | ActiveRecord: 0.3ms)
+
+
+Started PATCH "/posts/2" for 192.168.1.2 at 2015-02-10 07:49:14 +0000
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"OH7zAac20KrOQaq1fAYKPMrAzlMPnd+4iLnVswcku+2u/vUxQgDX5P/kt1FkozFz8pRYIHSGrIKHjFekDhF0Og==", "post"=>{"title"=>"My Second Post", "body"=>"Life is good.!"}, "commit"=>"Update Post", "id"=>"2"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE "posts" SET "title" = ?, "body" = ?, "updated_at" = ? WHERE "posts"."id" = ?  [["title", "My Second Post"], ["body", "Life is good.!"], ["updated_at", "2015-02-10 07:49:14.771453"], ["id", 2]]
+  [1m[36m (5.2ms)[0m  [1mcommit transaction[0m
+Redirected to http://192.168.1.222:3000/posts/2
+Completed 302 Found in 13ms (ActiveRecord: 5.9ms)
+
+
+Started GET "/posts/2" for 192.168.1.2 at 2015-02-10 07:49:14 +0000
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mPost Load (0.1ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered posts/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 73ms (Views: 71.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-10 07:49:16 +0000
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 74ms (Views: 72.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-10 07:49:21 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 123ms (Views: 118.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/comments/new" for 192.168.1.2 at 2015-02-10 07:49:25 +0000
+Processing by CommentsController#new as HTML
+  Rendered comments/_form.html.erb (4.0ms)
+  Rendered comments/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 93ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/comments" for 192.168.1.2 at 2015-02-10 07:49:35 +0000
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"SmsL6ibVzq47WQSKoOja1Ky94R1Efl7UtT2MhYqEZ8Lc6w3aw+PJ4Ar8GW64TeGblOl3bj9lLe66CA6Sg7GoFQ==", "comment"=>{"post_id"=>"1", "body"=>"Excellent"}, "commit"=>"Create Comment"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "comments" ("post_id", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["post_id", 1], ["body", "Excellent"], ["created_at", "2015-02-10 07:49:35.677684"], ["updated_at", "2015-02-10 07:49:35.677684"]]
+  [1m[36m (3.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://192.168.1.222:3000/comments/3
+Completed 302 Found in 8ms (ActiveRecord: 3.5ms)
+
+
+Started GET "/comments/3" for 192.168.1.2 at 2015-02-10 07:49:35 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mComment Load (0.2ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered comments/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 71ms (Views: 68.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-10 07:49:39 +0000
+Processing by CommentsController#index as HTML
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 71ms (Views: 69.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments/new" for 192.168.1.2 at 2015-02-10 07:49:41 +0000
+Processing by CommentsController#new as HTML
+  Rendered comments/_form.html.erb (2.0ms)
+  Rendered comments/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/comments" for 192.168.1.2 at 2015-02-10 07:49:46 +0000
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"OYMZloAqZS5b6XO1/mONap9RWGeS/mhl5tnrOvoW4AqvAx+mZRxiYGpMblHmxrYlpwXOFOnlG1/p7Gkt8yMv3Q==", "comment"=>{"post_id"=>"2", "body"=>"OK!"}, "commit"=>"Create Comment"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "comments" ("post_id", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["post_id", 2], ["body", "OK!"], ["created_at", "2015-02-10 07:49:46.697403"], ["updated_at", "2015-02-10 07:49:46.697403"]]
+  [1m[35m (3.2ms)[0m  commit transaction
+Redirected to http://192.168.1.222:3000/comments/4
+Completed 302 Found in 8ms (ActiveRecord: 3.6ms)
+
+
+Started GET "/comments/4" for 192.168.1.2 at 2015-02-10 07:49:46 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered comments/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 115ms (Views: 113.6ms | ActiveRecord: 0.1ms)
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+
+
+Started GET "/" for 192.168.1.2 at 2015-02-10 09:22:10 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 82ms (Views: 77.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:22:26 +0000
+
+
+Started GET "/post" for 192.168.1.2 at 2015-02-10 09:22:30 +0000
+
+ActionController::RoutingError (No route matches [GET] "/post"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /home/ehsan/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /home/ehsan/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /home/ehsan/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (2.3ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (34.5ms)
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-10 09:22:47 +0000
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-10 09:22:53 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 111ms (Views: 108.2ms | ActiveRecord: 0.4ms)
+  [1m[36mPost Load (1.8ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 2]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mDELETE FROM "posts" WHERE "posts"."id" = ?[0m  [["id", 2]]
+  [1m[35m (4.1ms)[0m  commit transaction
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-10 09:32:33 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 235ms (Views: 208.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts" for 192.168.1.2 at 2015-02-10 09:32:43 +0000
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 96ms (Views: 89.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/comments" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+Processing by CommentsController#index as HTML
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 74ms (Views: 73.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:32:49 +0000
+
+
+Started GET "/comments/posts" for 192.168.1.2 at 2015-02-10 09:33:04 +0000
+Processing by CommentsController#show as HTML
+  Parameters: {"id"=>"posts"}
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT  "comments".* FROM "comments" WHERE "comments"."id" = ? LIMIT 1[0m  [["id", 0]]
+Completed 404 Not Found in 9ms
+
+ActiveRecord::RecordNotFound (Couldn't find Comment with 'id'=posts):
+  app/controllers/comments_controller.rb:67:in `set_comment'
+
+
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (7.6ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (28.6ms)
+
+
+Started GET "/posts/posts" for 192.168.1.2 at 2015-02-10 09:33:12 +0000
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"posts"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 0]]
+Completed 404 Not Found in 3ms
+
+ActiveRecord::RecordNotFound (Couldn't find Post with 'id'=posts):
+  app/controllers/posts_controller.rb:67:in `set_post'
+
+
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (7.4ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /home/ehsan/.rvm/gems/ruby-2.1.5/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (27.9ms)
+
+
+Started GET "/posts/1/comments" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+Processing by CommentsController#index as HTML
+  Parameters: {"post_id"=>"1"}
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 88ms (Views: 87.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:31 +0000
+
+
+Started GET "/posts/2/comments" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+Processing by CommentsController#index as HTML
+  Parameters: {"post_id"=>"2"}
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 77ms (Views: 75.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:37 +0000
+
+
+Started GET "/posts/333/comments" for 192.168.1.2 at 2015-02-10 09:33:40 +0000
+Processing by CommentsController#index as HTML
+  Parameters: {"post_id"=>"333"}
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered comments/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 85ms (Views: 83.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:41 +0000
+
+
+Started GET "/posts/1/comments" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+Processing by CommentsController#index as HTML
+  Parameters: {"post_id"=>"1"}
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered comments/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 70ms (Views: 69.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/comments-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/posts-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/scaffolds-2a03c9813a82a7fed989f7d6c743f10a.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/application-82fb4ed637ee5fa08a95cf81d6de74fa.css?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/posts-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/comments-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
+
+
+Started GET "/assets/application-322efd85de1e19784a5dc35312bc9882.js?body=1" for 192.168.1.2 at 2015-02-10 09:33:45 +0000
